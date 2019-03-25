@@ -1,12 +1,13 @@
 ---
-title: '01 - Dummy Post'
-date: 2017-09-24
+title: 01 - Dummy Post 101
+date: 2017-09-24T00:00:00.000Z
 tags:
   - css
   - javascript
   - php
   - laravel
 image: sample.jpg
+comments: false
 ---
 ## Heading 2
 
