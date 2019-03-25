@@ -6,6 +6,7 @@ tags:
   - javascript
   - php
   - laravel
+  - htmlnew
 image: sample.jpg
 comments: false
 ---
